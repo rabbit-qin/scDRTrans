@@ -1,4 +1,4 @@
-# scDRTrans: Noise-Aware Cell-to-Cell Transfer Learning for Single-Cell Drug Response Prediction
+# scDRTrans: Noise-Aware Knowledge Transfer from Single-Cell Knowledge Bases for Drug Response Prediction
 
 ## Introduction
 
